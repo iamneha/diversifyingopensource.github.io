@@ -1,4 +1,4 @@
-# Diversifyingopensource.github.io
+# Diversifying Open Source
 
 We are a community of open source evangelists who believe in encouraging and celebrating underrepresented people in open source.
 
